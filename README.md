@@ -19,8 +19,11 @@ View the published dashboard here:
 
 ## 📁 Files Included
 - `Tableau (Gilang).twbx`: Tableau Packaged Workbook file that contains the full dashboard and embedded dataset.
+> Note: Tableau `.twbx` files are binary and cannot be previewed on GitHub directly. Please download and open in Tableau Public/Desktop.
 
 ## 👤 Author
 **Gilang Ranoe**  
 📫 Email: gilangranoe@gmail.com  
 🔗 [LinkedIn – Gilang Ranoe](https://www.linkedin.com/in/gilangra)
+Thank you for visiting this project! Feel free to reach out for feedback, collaboration, or suggestions.
+
